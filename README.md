@@ -1,4 +1,5 @@
-## Hi there 👋. I am a professional Data Analyst skilled in Excel, PowerBi and SQL. Passionate about turning data into actionable and interactive insights. 📧 Ilesanmilekan03@gmail.com
+## Welcome!
+I am a professional Data Analyst skilled in Excel, PowerBI and SQL. Passionate about turning data into actionable and interactive insights. 📧 Ilesanmilekan03@gmail.com
 
 <!--
 **Ilesanmi-Lekan/Ilesanmi-Lekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
