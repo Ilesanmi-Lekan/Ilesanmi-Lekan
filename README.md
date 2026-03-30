@@ -1,10 +1,14 @@
 ## Welcome!
 Hi, I'm Ilesanmi
+
 Data Analyst | Excel | PowerBI | SQL 
-I transform raw data into actionable insights that helps businesses make better decision.
+
+I transform raw data into actionable insights that helps businesses make better decisions.
 
 🔹 Skilled in data cleaning, analysis and visualisation
+
 🔹 Experienced in building interactive dashboards
+
 🔹 Strong focus on business insights and reporting
 
 📊 Featured Projects :
