@@ -1,5 +1,17 @@
 ## Welcome!
-I am a professional Data Analyst skilled in Excel, PowerBI and SQL. Passionate about turning data into actionable and interactive insights. 📧 Ilesanmilekan03@gmail.com
+Hi, I'm Ilesanmi
+Data Analyst | Excel | PowerBI | SQL 
+I transform raw data into actionable insights that helps businesses make better decision.
+
+🔹 Skilled in data cleaning, analysis and visualisation
+🔹 Experienced in building interactive dashboards
+🔹 Strong focus on business insights and reporting
+
+📊 Featured Projects :
+- Investment Preference Analysis (Excel)
+- Sales Performance (Power BI)
+  
+📧 Ilesanmilekan03@gmail.com
 
 <!--
 **Ilesanmi-Lekan/Ilesanmi-Lekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
