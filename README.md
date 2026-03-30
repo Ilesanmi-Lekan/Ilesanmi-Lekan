@@ -12,7 +12,7 @@ I transform raw data into actionable insights that helps businesses make better 
 🔹 Strong focus on business insights and reporting
 
 📊 Featured Projects :
-- Investment Preference Analysis (Excel)
+- Investment Preference Analysis (Excel) https://github.com/Ilesanmi-Lekan/Investment_Preference-Analysis
 - Sales Performance (Power BI)
   
 📧 Ilesanmilekan03@gmail.com
