@@ -12,7 +12,7 @@ I transform raw data into actionable insights that help businesses make better d
 🔹 Strong focus on business insights and reporting
 
 📊 Featured Projects :
-- [Loan Performance & Default Risk (excel)](https://github.com/Ilesanmi-Lekan/Loan--Performance-Risk-Analysis)
+- [Loan Performance & Default Risk (Excel)](https://github.com/Ilesanmi-Lekan/Loan--Performance-Risk-Analysis)
 - [Investment Preference Analysis (Excel)](https://github.com/Ilesanmi-Lekan/Investment_Preference-Analysis)
 - [Amazon E-Commerce Sales Performance (Power BI)](https://github.com/Ilesanmi-Lekan/Amazon-E-Commerce-Sales-Analysis)
   
